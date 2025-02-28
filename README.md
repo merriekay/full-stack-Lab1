@@ -8,18 +8,18 @@ This is the starter repository for Lab 1 of the Full Stack Web Development cours
    git clone https://github.com/merriekay/full-stack-Lab1
    ```
 2. **Navigate into the folder**
-```bash
-cd full-stack-lab1
-```
+   ```bash
+   cd full-stack-lab1
+   ```
 
 3. **Open in VS Code**:
-```bash
-code .
-```
-> the `code .` command doesn't always work... sometimes this requires some additional setup. You can also navigate to the folder and open manually.
+   ```bash
+   code .
+   ```
+   > the `code .` command doesn't always work... sometimes this requires some additional setup. You can also navigate to the folder and open manually.
 
 4. **Run Live Server**
-- open the `index.html` file and right-click --> **Open with Live Server**.
+   - open the `index.html` file and right-click --> **Open with Live Server**.
 
 # 💪 Your Exercises:
 1. Modify `index.html` to include more content
