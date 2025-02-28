@@ -1,4 +1,4 @@
-# Full Stack Development - Lab 1
+# Lab 1: Environment Setup
 
 This is the starter repository for Lab 1 of the Full Stack Web Development course. 
 
